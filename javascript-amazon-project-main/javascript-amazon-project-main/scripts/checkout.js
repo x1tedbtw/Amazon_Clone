@@ -42,7 +42,7 @@ cart.forEach((cartItem) => {
             <span class="update-quantity-link link-primary">
                 Update
             </span>
-            <span class="delete-quantity-link link-primary">
+            <span class="delete-quantity-link link-primary js-delete-link">
                 Delete
             </span>
             </div>
