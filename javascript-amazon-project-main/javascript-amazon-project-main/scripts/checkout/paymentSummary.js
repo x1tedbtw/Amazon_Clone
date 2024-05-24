@@ -1,1 +1,3 @@
-// 54
+export function renderPaymentSummary() {
+    console.log('renderPaymentSummary')
+}
